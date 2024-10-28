@@ -1,0 +1,6 @@
+name = "morning-sea-36b5"
+main = "worker.js"
+compatibility_date = "2023-08-23"
+
+[unsafe.metadata.observability]
+enabled = true
